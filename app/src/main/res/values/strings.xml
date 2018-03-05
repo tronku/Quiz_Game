@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tronku Quiz_Game</string>
+    <string name="ques">Ques No. 1</string>
+    <string name="score">SCORE: </string>
+    <string name="values">0</string>
+    <string name="right">You\'re Right!</string>
+    <string name="wrong">You\'re Wrong!</string>
+    <string name="over">GAME OVER</string>
+
+    <string name="q1">Who is the founder of Google?</string>
+    <string name="q1_op1">JEFF BEZOS</string>
+    <string name="q1_op2">LARRY PAGE</string>
+    <string name="q1_op3">EVAN SPIEGAL</string>
+
+    <string name="q2">Select the website of Google parent company.</string>
+    <string name="q2_op1">abc.xyz</string>
+    <string name="q2_op2">parent.google.com</string>
+    <string name="q2_op3">alphabet.com</string>
+
+    <string name="q3">Most innovative company?</string>
+    <string name="q3_op1">GOOGLE</string>
+    <string name="q3_op2">APPLE</string>
+    <string name="q3_op3">SpaceX</string>
+</resources>

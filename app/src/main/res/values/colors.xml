@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/normal</color>
+    <color name="colorPrimaryDark">@color/blue</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ques">#f7b733</color>
+    <color name="selected">#075972</color>
+    <color name="pressed">#f2c94c</color>
+    <color name="normal">#00aee2</color>
+    <color name="blue">#0b7d9f</color>
+    <color name="gray">#696969</color>
+    <color name="right">#00b200</color>
+    <color name="wrong">#e50000</color>
+</resources>
